@@ -1,0 +1,38 @@
+{
+  "email": "velorixstudios222@gmail.com",
+  "plans": [
+    {
+      "name": "3D website",
+      "price": "$4,500",
+      "note": "starting price",
+      "features": [
+        "Real-time WebGL build",
+        "One product or scene",
+        "Mobile and desktop",
+        "Two revision rounds"
+      ]
+    },
+    {
+      "name": "3D product ad",
+      "price": "$1,800",
+      "note": "per hero render",
+      "features": [
+        "Photoreal render pass",
+        "15s or 30s cutdown",
+        "Up to three aspect ratios",
+        "Two revision rounds"
+      ]
+    },
+    {
+      "name": "3D brand animation",
+      "price": "$3,200",
+      "note": "starting price",
+      "features": [
+        "Logo reveal and loop",
+        "Motion guidelines",
+        "Web and broadcast exports",
+        "Two revision rounds"
+      ]
+    }
+  ]
+}
